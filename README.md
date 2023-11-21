@@ -1,5 +1,5 @@
 # Perifericos
-This API RESTful was made in Golang, Refers to a store of peripherals for computers
+This application was made in Golang, Refers to a store of peripherals for computers
 
 # JSON
 The JSON that was used is this ↓
@@ -18,6 +18,5 @@ The JSON that was used is this ↓
 		}
 ]
 ```
-
 # Run
 ```go run main.go```
