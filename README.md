@@ -4,6 +4,7 @@ This API RESTful was made in Golang, Refers to a store of peripherals for comput
 # JSON
 The JSON that was used is this ↓
 
+```
 [
 		{
 				"id": "string",
@@ -16,6 +17,7 @@ The JSON that was used is this ↓
 				"preco": float64
 		}
 ]
+```
 
 # Run
 go run main.go
