@@ -20,4 +20,4 @@ The JSON that was used is this ↓
 ```
 
 # Run
-go run main.go
+```go run main.go```
